@@ -1,0 +1,28 @@
+1.
+	MAC karty sieciowej: 4e:da:0b:7f:17:5c
+2.
+	WEW 10.71.1.11
+	ZEW 150.254.79.43
+	Nie zawsze zależy od ustawień sieciowych.
+3. 
+	PING google.com (172.217.20.174)
+	PING amu.edu.pl (150.254.65.253)
+	PING wmi.amu.edu.pl (150.254.78.3)
+4
+traceroute to nyu.edu (216.165.47.10), 30 hops max, 60 byte packets
+ 1  gw-v571.core.wmi.amu.edu.pl (10.71.0.1)
+ 2  fw.core.wmi.amu.edu.pl (150.254.76.33)
+ 3  amur.amu.edu.pl (150.254.115.57)
+ 4  do-pozman.amu.edu.pl (150.254.116.6)
+ 5  pozmangw.amu.edu.pl (150.254.115.5)
+ 6  z-pozmana.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.17)
+ 7  pionier.mx1.poz.pl.geant.net (62.40.125.245)
+ 8  ae3.mx1.fra.de.geant.net (62.40.98.130)
+ 9  ae1.mx1.ams.nl.geant.net (62.40.98.129)
+10  internet2-gw.mx1.ams.nl.geant.net (62.40.124.47)
+11  nyc-9208-I2-NEWY.nysernet.net (199.109.5.1)
+12  199.109.5.6 (199.109.5.6)  
+13  DMZGWB-PTP-EXTGWA.NET.NYU.EDU (128.122.254.67)  
+14  NYUGWA-PTP-DMZGWB-VL3082.NET.NYU.EDU (128.122.254.110) 
+15  NYUFW-OUTSIDE-NGFW-VL3080.NET.NYU.EDU (128.122.254.116)  
+17  WSQDCGWA-VL902.NET.NYU.EDU (128.122.1.38)
